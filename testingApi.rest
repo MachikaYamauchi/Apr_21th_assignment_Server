@@ -1,0 +1,12 @@
+GET http://localhost:4400/products
+
+###
+
+GET http://localhost:4400/contact
+
+###
+GET http://localhost:4400/about-us
+
+###
+
+GET http://localhost:4400/productDescription/2
